@@ -13,6 +13,8 @@ class FinalWin(QWidget):
         super().__init__()
 
         # создаём и настраиваем графические элелементы:
+        #k;ldgjdfsklgj
+        # klgjdfgvj
         self.initUI()
 
         #устанавливает, как будет выглядеть окно (надпись, размер, место)
